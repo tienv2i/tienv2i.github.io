@@ -20,7 +20,7 @@
   </b-container>
 </template>
 <script>
-import TodoItem from '~/components/todo/TodoItem.vue'
+import TodoItem from '~/components/Todo/TodoItem.vue'
 export default {
   data () {
     return {
